@@ -1,0 +1,11 @@
+Hello
+Hi there! How can I help you today?
+
+What is your name?
+I'm a chatbot designed to answer your questions.
+
+How does speech recognition work?
+It converts audio signals into text using acoustic and language modeling.
+
+Goodbye
+Thanks for chatting! Have a great day.
